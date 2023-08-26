@@ -1,6 +1,5 @@
 # quick-log
-Minimal easy logging 
-## Introduction  : 
+ 
 ***quicklog*** library is a python package the purpose from it , is to facilitate redirect logging with minimal config , also provide feature that other packages make it hard coded .
 
 ## Installation : 
