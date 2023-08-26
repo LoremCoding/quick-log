@@ -19,3 +19,8 @@ eprint("this is a error message")
 cprint("this is a critical message")
 iprint("this is a info message")
 ```
+* the logger is designed to be a singelton object , once is imported all the logs will walk through it .
+* the log file can be set through then an envirement varibale  :
+```bash
+export QUICK_LOG_FILE="...path to log file ...." ; python ..run your code ...
+```
