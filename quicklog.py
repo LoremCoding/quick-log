@@ -20,7 +20,7 @@ class iLogger:
 
 	def __new__(cls):
 		if cls._instance is None:
-			cls._instance = super(Logger, cls).__new__(cls)
+			cls._instance = super(iLogger, cls).__new__(cls)
 		return cls._instance
 
 	def debug(self,*args , **kwargs) : 
