@@ -72,7 +72,7 @@ def SET_LOG_FILE(filepath) :
 	
 
 
-__all__ = ['dprint' , 'iprint' , 'wprint' , 'eprint' , 'cprint' , 'SET_LOG_FILE_NAME']
+__all__ = ['dprint' , 'iprint' , 'wprint' , 'eprint' , 'cprint' , 'SET_LOG_FILE']
 
 
 
